@@ -23,11 +23,11 @@
 
 ### Connected Client (REALITY)
 
-![Connected](assets/vpn3.png)
+![Connected](assets/VPN3.png)
 
 ### Server Status on Remote Host
 
-![Server Status](assets/vpn1.png)
+![Server Status](assets/VPN1.png)
 
 ---
 
