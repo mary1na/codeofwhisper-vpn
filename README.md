@@ -19,15 +19,15 @@
 
 ### VPN UI Preview
 
-![VPN UI](assets/vpn_ui.png)
+![VPN UI](assets/UI.png)
 
 ### Connected Client (REALITY)
 
-![Connected](assets/vpn2.png)
+![Connected](assets/vpn3.png)
 
 ### Server Status on Remote Host
 
-![Server Status](assets/vpn3.png)
+![Server Status](assets/vpn1.png)
 
 ---
 
