@@ -19,15 +19,15 @@
 
 ### VPN UI Preview
 
-![VPN UI](assets/UI.png)
+![VPN UI](Assets/UI.png)
 
 ### Connected Client (REALITY)
 
-![Connected](assets/VPN3.png)
+![Connected](Assets/VPN3.png)
 
 ### Server Status on Remote Host
 
-![Server Status](assets/VPN1.png)
+![Server Status](Assets/VPN1.png)
 
 ---
 
@@ -56,11 +56,11 @@ This project is being built and maintained by a solo developer, with all infrast
 ---
 codeofwhisper-vpn-client/
 ├── README.md
-├── assets/
-│ ├── vpn_ui.png
-│ ├── vpn1.png
-│ ├── vpn2.png
-│ ├── vpn3.png
+├── Assets/
+│ ├── UI.png
+│ ├── VPN1.png
+│ ├── VPN2.png
+│ ├── VPN3.png
 
 ---
 
